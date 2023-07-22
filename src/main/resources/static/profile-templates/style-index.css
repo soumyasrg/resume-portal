@@ -1,0 +1,47 @@
+html {
+    background: url("https://i.ibb.co/jv5ZJbZ/bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: red;
+    font-family: sans-serif;
+}
+
+a:hover{
+    background-color: peachpuff;
+    color: darkred;
+    text-decoration: underline;
+}
+
+h1{
+    width: fit-content;
+    font-family: cursive;
+    color: darkorchid;
+}
+
+p{
+    width: fit-content;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.container{
+    width: fit-content;
+    background-color: #DEC;
+    border: 1px #DEC solid;
+    border-style: outset;
+    border-radius: 18px;
+    box-shadow: 2px 2px 10px 0px #DEF;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+
+body{
+    background-color: inherit;
+}
